@@ -1,4 +1,6 @@
 venv/
 .ipynb_checkpoints/
-_pycache_/
+__pycache__
 .dockerignore/
+docker-compose.yml
+Fast API - Shortcut.lnk
