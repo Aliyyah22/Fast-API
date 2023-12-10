@@ -1,17 +1,6 @@
-# Dataset Description - Assignment 1
+# Introduction
 
-The provided data is a modified version of a publicly available data source, and is subject to copyright.
-
-### Donor of database: 
-                          The Johns Hopkins University
-                          Johns Hopkins Road
-                          Laurel, MD 20707
-                          (301) 953-6231
-
-### Licence agreement: 
-
-The dataset can only be used for the purpose of this assignment. Sharing or distributing this data or using this data for any other commercial or non-commercial purposes is prohibited.
-
+### Dataset Description 
 
 ### Data Fields
 
@@ -29,4 +18,3 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 | Insurance | N/A     | If a patient holds a valid insurance card|
 | Sepssis                 | Target           | Positive: if a patient in ICU will develop a sepsis , and Negative: otherwise |
 
-### Missing Attribute Values: Yes
