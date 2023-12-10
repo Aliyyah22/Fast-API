@@ -1,6 +1,8 @@
 # Introduction
+In this project, I built a FastAPI application that focuses on predicting sepsis using machine learning classification models. After developing the application, I proceeded to contanerie it using Docker.
 
 ### Dataset Description 
+Below is the dataset description
 
 ### Data Fields
 
